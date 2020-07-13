@@ -1,6 +1,9 @@
-### I am data-driven and passionate about uncovering hidden insights from data. Highly motivated Bachelor of Technology degree holder in Information Technology with 7 months of software developer experience. Trained in Full Stack Data Science skills and Certified Tableau Desktop Specialist. Seeking for an opportunity in the data science domain to use those skills to contribute in handling real-world problems. 
-### My specialties include R, Python, Machine learning using Python, and Predictive Analytics with R. 
-### Connect with me : https://www.linkedin.com/in/nikita-soni/
+#### :pushpin: A data-driven and passionate about uncovering hidden insights from data. 
+#### :pushpin: Graduated with Bachelor of Technology in Information Technology with 7 months of software developer experience. 
+#### :pushpin: Trained in Full Stack Data Science skills and Certified Tableau Desktop Specialist. 
+#### :pushpin: Seeking for an entry-level opportunity in the Data Science. 
+#### :pushpin: Passionate for working with Machine Learning problems and exploring Artifical Intelligence.
+##### :pushpin: Connect with me :     :email: ahns.nikita96@gmail.com
 
 
 <!--
