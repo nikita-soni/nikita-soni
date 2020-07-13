@@ -3,7 +3,7 @@
 #### :pushpin: Trained in Full Stack Data Science skills and Certified Tableau Desktop Specialist. 
 #### :pushpin: Seeking for an entry-level opportunity in the Data Science. 
 #### :pushpin: Passionate for working with Machine Learning problems and exploring Artifical Intelligence.
-##### :pushpin: Connect with me :     :email: ahns.nikita96@gmail.com
+
 
 
 <!--
