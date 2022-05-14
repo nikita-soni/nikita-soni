@@ -1,7 +1,7 @@
 #### :pushpin: A data-driven and passionate about uncovering hidden insights from data. 
 #### :pushpin: Graduated with Bachelor of Technology in Information Technology with 7 months of software developer experience. 
 #### :pushpin: Trained in Full Stack Data Science skills and Certified Tableau Desktop Specialist. 
-#### :pushpin: Seeking for an entry-level opportunity in the Data Science. 
+#### :pushpin: Aspiring Data Analyst and Seeking Co-op for Fall 2022 term. 
 #### :pushpin: Passionate for working with Machine Learning problems and exploring Artifical Intelligence.
 
 
